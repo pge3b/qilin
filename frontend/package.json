@@ -38,7 +38,7 @@
     "three-spritetext": "^1.10.0"
   },
   "devDependencies": {
-    "@eslint/js": "^9.35.0",
+    "@eslint/js": "^9.37.0",
     "@types/node": "^24.6.2",
     "@types/react": "^19.1.16",
     "@types/react-dom": "^19.2.0",
